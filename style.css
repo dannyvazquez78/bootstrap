@@ -1,0 +1,25 @@
+
+   
+/* .bg-primary {
+    background-color: #000 !important;
+} */
+
+nav.navbar.navbar-expand-lg.navbar-dark.bg-primary {
+    background-color: #000 !important;
+    margin-bottom: 2rem;
+}
+
+.container {
+    outline: solid red;
+    padding: 1em;
+}
+
+.row {
+    outline: solid blue;
+    padding: 1em;
+}
+
+.col {
+    outline: solid green;
+    min-height: 50px;
+}

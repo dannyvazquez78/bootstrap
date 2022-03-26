@@ -1,0 +1,61 @@
+* {
+    background-color: #000;
+}
+
+li {
+    list-style: none;
+    color: white;
+}
+
+
+nav.navbar.navbar-expand-lg.navbar-dark.bg-primary {
+    background-color: #000 !important;
+    margin-bottom: 2rem;
+    color: white;
+}
+
+.navbar-brand {
+    color: white;
+}
+.container {
+   
+    padding: 1em;
+    background-color: #000;
+}
+
+.row {
+    outline: solid rgb(249, 249, 252);
+    padding: 1em;
+}
+
+.col {
+   
+    min-height: 50px;
+    color: white;
+}
+
+.col-3 {
+   
+    min-height: 50px;
+    color: white;
+    text-decoration: none;
+}
+
+.col-2 {
+   
+    min-height: 50px;
+    color: white;
+}
+
+.lista-menu {
+    text-decoration: none;
+    color: aquamarine;
+}
+
+.card-title  {
+    color: white;
+}
+
+.card-text {
+    color: white;
+}
